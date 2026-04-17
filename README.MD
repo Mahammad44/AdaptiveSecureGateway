@@ -1,14 +1,3 @@
-### 1. The License Question (MIT vs. Monetization)
-*   **The MIT License:** This is the "Gold Standard" for Rust portfolio projects. It says, "You can use this for anything, but I'm not liable if it breaks."
-    *   **Pros:** It makes recruiters much more likely to look at your code because they don't have to worry about legal issues.
-    *   **Monetization:** You **can** still monetize MIT code. You can sell a hosted version (SaaS), provide support, or sell a "Pro" version with extra features.
-*   **Alternative (AGPL):** If you are terrified of a big company like Amazon taking your code and running it without paying you, you would use **AGPL**. But this often scares away recruiters and collaborators.
-*   **My Advice:** Stick with **MIT**. For this project, your "Product" is your **expertise**. The goal is to get a high-paying job. The value of the job is much higher than the value of the code right now.
-
----
-
-### 2. The Updated README.md
-
 
 ```markdown
 # 🚀 Adaptive Secure Gateway
