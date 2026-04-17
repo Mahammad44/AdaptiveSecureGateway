@@ -1,5 +1,3 @@
-This is a great point in the project to pause and organize. Documentation is what separates a "coding exercise" from a "software product" in the eyes of an employer.
-
 ### 1. The License Question (MIT vs. Monetization)
 *   **The MIT License:** This is the "Gold Standard" for Rust portfolio projects. It says, "You can use this for anything, but I'm not liable if it breaks."
     *   **Pros:** It makes recruiters much more likely to look at your code because they don't have to worry about legal issues.
@@ -11,7 +9,6 @@ This is a great point in the project to pause and organize. Documentation is wha
 
 ### 2. The Updated README.md
 
-I have added a **"Project Status"** section, updated the **Roadmap** to reflect the items we just completed (Vulkan pipeline and benchmarks), and updated the **Structure** to match your actual files.
 
 ```markdown
 # 🚀 Adaptive Secure Gateway
