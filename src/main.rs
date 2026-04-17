@@ -50,7 +50,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     if gpu_success && cpu_success {
         println!("✅ DATA INTEGRITY VERIFIED");
     } else {
-        println!("❌ DATA ERROR: Results do not match expected doubling");
+        println!("❌ DATA ERROR: Results do not match expected doubling ");
         if !gpu_success { println!("   (Check gpu.rs for double-dispatch bug)"); }
     }
 
