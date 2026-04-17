@@ -1,0 +1,8 @@
+[package]
+name = "AdaptiveSecureGateway"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ash = { version = "0.38", features = ["linked", "debug"] }
+rayon = "1.12.0"
